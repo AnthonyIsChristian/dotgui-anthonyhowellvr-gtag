@@ -1,6 +1,11 @@
 {
-  "workspaces": ["search"],
+  "workspaces": [
+    "search"
+  ],
   "devDependencies": {
     "servor": "^4.0.2"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
   }
 }
